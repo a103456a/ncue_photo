@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 ncuephoto_venv
+photo_venv
 
 # =========================
 # Operating System Files
@@ -46,3 +47,4 @@ ncuephoto_venv
 Network Trash Folder
 Temporary Items
 .apdisk
+mysite/mysite/__pycache__/settings.cpython-35.pyc
