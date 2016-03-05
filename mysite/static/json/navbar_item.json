@@ -1,5 +1,4 @@
 {"navBar":[
-     {"title":"John", "url":"Doe"},
-     {"title":"Anna", "url":"Smith"},
-     {"title":"Peter", "url":"Jones"}
+     {"title":"首頁", "url":"/home"},
+     {"title":"動態消息", "url":"/news"}
 ]}
